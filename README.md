@@ -9,3 +9,4 @@ https://github.com/jhen0409/react-native-debugger
 
 Then connect to Port: 19000 and you can open the app
 
+Link to publish: https://expo.dev/@thongdang/Form?serviceType=classic&distribution=expo-go
